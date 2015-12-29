@@ -21,16 +21,10 @@ h1.site_head
     margin: 30px;
 }
 
-ul.site_head
+/* all il in ul at site head */
+ul.site_head  li
 {
     display: inline;
-    padding-bottom: 50px;
-}
-
-ul.site_head > li
-{
-    display: inline;
-    min-width: fit-content;
 }
 
 
