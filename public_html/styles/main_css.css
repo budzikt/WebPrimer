@@ -24,13 +24,11 @@ h1.site_head
 ul.site_head
 {
     display: inline;
-    padding-bottom: 50px;
 }
-
+/*Parent li's in page header */
 ul.site_head > li
 {
     display: inline;
-    min-width: fit-content;
 }
 
 
