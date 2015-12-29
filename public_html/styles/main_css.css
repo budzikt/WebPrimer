@@ -21,12 +21,8 @@ h1.site_head
     margin: 30px;
 }
 
-ul.site_head
-{
-    display: inline;
-}
-/*Parent li's in page header */
-ul.site_head > li
+/* all il in ul at site head */
+ul.site_head  li
 {
     display: inline;
 }
