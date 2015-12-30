@@ -29,7 +29,7 @@ h2.site_head
     text-transform: uppercase;  
 }
 
-ul.site_head  li
+ul.site_head li
 {
     display: inline;
     margin-right: 15px;
