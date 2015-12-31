@@ -4,11 +4,16 @@ body
     font-family: Arial, Helvetica, sans-serif;
 }
 
-div
-{
+*.debug *{
     border-style: solid;
     border-width: 1px;
 }
+
+div
+{
+
+}
+
 div.pageWrapper
 {
     width: 75%;
@@ -37,6 +42,6 @@ ul.site_head li
     margin-right: 15px;
 }
 
-div.site_head + div{
+header + div{
     clear: both;
 }
